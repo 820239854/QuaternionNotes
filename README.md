@@ -131,6 +131,12 @@ Row Pitch对应的按钮在旋转到某个瞬间会逐渐混乱，并且出现�
 
 
 
+# Quaternions: a geometrical interpretation
+
+https://lordarkam.wordpress.com/2022/08/28/quaternions-a-geometrical-interpretation/
+
+
+
 #### Ref:
 
 - https://www.h3dlearn.com/course/quaternions
